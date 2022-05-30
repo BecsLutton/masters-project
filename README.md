@@ -1,6 +1,3 @@
-# UU IoT PT Master's Project 2022
-Repo for the various jupyter notebooks used in the project and the final datasets that were selected. 
-Consolidation of jupyter notebooks not done because of library version conflicts, particularly with nupmy, tensorflow, scikit-learn and the pernutation feature importance tools.
-
-### *Note*
-This repository uses git-lfs to store the large iPython notebooks. You will need to install git-lfs in order to clone the repository. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfe202de112de221517f00ca3eaf7779462a74dfbf1170b6ecee22aa4e6f0d9e
+size 462
